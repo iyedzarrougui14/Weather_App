@@ -43,7 +43,7 @@ A simple and user-friendly weather application built with **Android Studio** usi
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/weather-app.git
+   git clone https://github.com/iyedzarrougui14/Weather_App
    cd weather-app
    ```
 2. Open the project in **Android Studio**.
