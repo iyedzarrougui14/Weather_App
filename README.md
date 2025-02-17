@@ -26,7 +26,8 @@ A simple and user-friendly weather application built with **Android Studio** usi
 
 ## 📸 Screenshots
 
-*(Add relevant screenshots of the app here)*
+![Weather App Screenshot](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*FXe3xt_jWIpXIbexCQY8hA.png)
+
 
 ---
 
